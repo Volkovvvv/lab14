@@ -1,0 +1,78 @@
+.slider{
+    background-color: #ececec;
+}
+.slider__inner{
+    text-align: center;
+}
+.container-slider{
+    max-width: 1140px;
+    margin:0 auto;
+}
+.our-production{
+    color:#b98a6c;
+    font-size:60px;
+    text-align: center;
+    margin: 0;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    
+}
+.slick-prev:before, .slick-next:before{
+    font-size:0px!important;
+}
+.slick-next{
+    right:10px!important;
+}
+.slick-prev{
+    left:-110px!important;
+}
+
+.slick-prev:before, .slick-next:before {
+    color:transparent;
+}
+.descr-bread{
+    font-size:1000px;
+}
+.bread-2-img{
+    height: 164px;
+    width: 238px;
+}
+.bread-3-img{
+    height: 163px;
+}
+.bread-4-img{
+    height: 165px;
+}
+p{
+    color:#7c7c7c;
+}
+.slider__btn-inner{
+    display:block;
+    outline:none;
+    text-align: center;
+    padding-bottom: 30px;
+
+}
+.slider__btn{
+    background-color: #88dd8a;
+    border:none;
+    color:#fff;
+    font-size:24px;
+    border-radius: 10px;
+    padding:15px 35px 15px 35px;
+    margin-top:25px;
+    
+}
+.slick-slider{
+    left:30px;
+}
+.slider__btn:hover{
+    color:#000;
+    background-color: grey;
+    transition: all .8s;
+}
+.dima-photo{
+    width: 500px;
+    height: 500px;
+    border:5px solid #b98a6c
+}
